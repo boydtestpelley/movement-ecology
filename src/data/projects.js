@@ -17,21 +17,21 @@ TEMPLATE:
         date: "2026-01-01",
         people: [""],
 
-        listImage: require('../assets/projects/your-project/outer-image.jpg'),
-        bannerImage: require('../assets/projects/your-project/banner-image.jpg'),
+        listImage: require('../assets/projects/highlands-test/outer-image.jpg'),
+        bannerImage: require('../assets/projects/highlands-test/banner-image.jpg'),
         
-        image1: require('../assets/projects/your-project/image1.jpg'),
+        image1: require('../assets/projects/highlands-test/image1.jpg'),
         text1: "text",
         
-        image2: require('../assets/projects/your-project/image2.jpg'),
+        image2: require('../assets/projects/highlands-test/image2.jpg'),
         text2: "text",
 
         // FOLLOW SAME FORMAT FOR ADDING MORE IMAGE TEXT BLOCKS
         
         collection: [
-          require('../assets/projects/your-project/collection3.mp4'),
-          require('../assets/projects/your-project/collection1.png'),
-          require('../assets/projects/your-project/collection2.jpg'),
+          require('../assets/projects/highlands-test/collection3.mp4'),
+          require('../assets/projects/highlands-test/collection1.png'),
+          require('../assets/projects/highlands-test/collection2.jpg'),
           // FOLLOW SAME FORMAT AS ABOVE TO ADD MORE MEDIA
         ],
     },
@@ -65,23 +65,23 @@ export const projects = [
         date: "2026-10-10",
         people: ["Test Person"],
 
-        listImage: require('../assets/projects/your-project/highlands.JPG'),
-        bannerImage: require('../assets/projects/your-project/highlands.JPG'),
+        listImage: require('../assets/projects/highlands-test/highlands.JPG'),
+        bannerImage: require('../assets/projects/highlands-test/highlands.JPG'),
         
-        image1: require('../assets/projects/your-project/horses.JPG'),
+        image1: require('../assets/projects/highlands-test/horses.JPG'),
         text1: "Test paragraph. You can add up to five of these sections or remove them entirely",
         
-        image2: require('../assets/projects/your-project/river-pic1.JPG'),
+        image2: require('../assets/projects/highlands-test/river-pic1.JPG'),
         text2: "Second test paragraph...",
 
         // FOLLOW SAME FORMAT FOR ADDING MORE IMAGE TEXT BLOCKS
         
         collection: [
-          require('../assets/projects/your-project/horse-vid.MP4'),
-          require('../assets/projects/your-project/river-pic3.JPG'),
-          require('../assets/projects/your-project/river-pic4.JPG'),
-          require('../assets/projects/your-project/river-pic4.JPG'),
-          require('../assets/projects/your-project/river-pic4.JPG'),
+          require('../assets/projects/highlands-test/horse-vid.MP4'),
+          require('../assets/projects/highlands-test/river-pic3.JPG'),
+          require('../assets/projects/highlands-test/river-pic4.JPG'),
+          require('../assets/projects/highlands-test/river-pic4.JPG'),
+          require('../assets/projects/highlands-test/river-pic4.JPG'),
           // FOLLOW SAME FORMAT AS ABOVE TO ADD MORE MEDIA
         ],
     },
